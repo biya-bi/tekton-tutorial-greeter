@@ -1,1 +1,1 @@
-Flux to Tekton test 24
+Flux to Tekton test 25
